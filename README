@@ -1,0 +1,17 @@
+I include 3 options to view the code:
+
+1. Jupyter Notebook
+Use this if you have Jupyter Notebook on you machine. Navigate yourself to the directory "/JupyterNotebook", and it should take care things by itself
+
+2. Raw Code
+This is essentially the converted code from JupyterNotebook. I have not test the result from this code, but it should return the same thing the JupyterNotebook returned
+
+3. Rendered Result
+This is the rendered result of the JupyterNotebook. Open this is your browser as it's in HTML format. Essentially the same thing from JupyterNotebook, only the code has already executed and had the output displayed.
+
+
+EXTRA: Tableau
+I include a Tableau workbook just in case you want to explore the beautiful graphics in of Tableau.
+
+
+Thank you for the semester, and Happy Holidays!
